@@ -1,0 +1,21 @@
+{
+  "name" : "Table1",
+  "type" : "table",
+  "fieldSpecs" : [
+    {
+      "name" : "Checkbox_1",
+      "displayName" : "Checkbox_1",
+      "type" : "checkbox"
+    },
+    {
+      "name" : "First",
+      "displayName" : "First",
+      "type" : "readonly"
+    },
+    {
+      "name" : "Second",
+      "displayName" : "Second",
+      "type" : "readonly"
+    }
+  ]
+}
